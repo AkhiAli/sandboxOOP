@@ -1,3 +1,24 @@
+/* Citation and Sources...
+-----------------------------------------------------------
+Workshop 01
+Module: IO
+Filename: Io.cpp
+-----------------------------------------------------------
+Author: Abu-ubaidah Ali
+Student number: 138137245
+Email: aali466@myseneca.ca
+Subject: OOP244
+-----------------------------------------------------------
+Revision History
+------- --------- ------------------------------------------
+Version Date      Reason
+V0.5    2025/05/15  Completed main code
+V1.0    2025/05/16  Finishing touches/ prepping for submission
+-----------------------------------------------------------
+I have done all the coding by myself and only copied the code
+that my professor provided to complete my work for function whatever.
+-----------------------------------------------------------
+*/
 #define _CRT_SECURE_NO_WARNINGS
 
 

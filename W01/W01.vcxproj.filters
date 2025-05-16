@@ -29,10 +29,8 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <CopyFileToFolders Include="..\..\Desktop\school\phones.tsv">
-      <Filter>Resource Files</Filter>
-    </CopyFileToFolders>
+    <ClCompile Include="cstr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
