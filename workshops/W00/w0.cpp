@@ -8,7 +8,7 @@ int main() {
 	cout << "Abu-ubaidah Ali" << endl;
 	cout << "Student Number:" << endl;
 	cout << "138137245" << endl;
-	cout << "Email" << endl;
+	cout << "Email:" << endl;
 	cout << "aali466@myseneca.ca" << endl;
  
 	return 0;
